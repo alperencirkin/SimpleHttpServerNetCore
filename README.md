@@ -1,5 +1,5 @@
 # SimpleHttpServerNetCore
- Build your simple http server fly on c#
+ Build your simple http server on the fly c#
 
   # Installation
  ```bash
@@ -7,4 +7,6 @@
  cd simplehttpservernetcore
  ```
 2. Run the exe
-'run SimpleHttpServerNetCore.exe'
+`run SimpleHttpServerNetCore.exe`
+
+Linux install documentation coming soon
