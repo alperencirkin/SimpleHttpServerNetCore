@@ -1,0 +1,16 @@
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\bin\Debug\net5.0\SimpleHttpServerNetCore.exe
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\bin\Debug\net5.0\SimpleHttpServerNetCore.deps.json
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\bin\Debug\net5.0\SimpleHttpServerNetCore.runtimeconfig.json
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\bin\Debug\net5.0\SimpleHttpServerNetCore.runtimeconfig.dev.json
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\bin\Debug\net5.0\SimpleHttpServerNetCore.dll
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\bin\Debug\net5.0\ref\SimpleHttpServerNetCore.dll
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\bin\Debug\net5.0\SimpleHttpServerNetCore.pdb
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\obj\Debug\net5.0\SimpleHttpServerNetCore.csprojAssemblyReference.cache
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\obj\Debug\net5.0\SimpleHttpServerNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\obj\Debug\net5.0\SimpleHttpServerNetCore.AssemblyInfoInputs.cache
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\obj\Debug\net5.0\SimpleHttpServerNetCore.AssemblyInfo.cs
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\obj\Debug\net5.0\SimpleHttpServerNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\obj\Debug\net5.0\SimpleHttpServerNetCore.dll
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\obj\Debug\net5.0\ref\SimpleHttpServerNetCore.dll
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\obj\Debug\net5.0\SimpleHttpServerNetCore.pdb
+C:\Users\Escobar\source\repos\SimpleHttpServerNetCore\SimpleHttpServerNetCore\obj\Debug\net5.0\SimpleHttpServerNetCore.genruntimeconfig.cache
