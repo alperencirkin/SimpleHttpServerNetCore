@@ -17,7 +17,7 @@ namespace SimpleHttpServerNetCore
             thread.Start();
             Console.WriteLine(@"Server Listening on:http:\\localhost:" + serverPort);
             void connectionThread()
-            {
+            { 
                 IPEndPoint endpoint = new IPEndPoint(IPAddress.Any, serverPort);
                 httpServer.Bind(endpoint);
                 httpServer.Listen(1);
